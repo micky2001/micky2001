@@ -1,3 +1,4 @@
+![Screenshot (43)](https://user-images.githubusercontent.com/47693419/113966965-b0bcd080-984d-11eb-896d-4cb8695a15cb.png)
 
 ## Hi there 👋 This is Subhashree Dash, thanks for visiting my profile ❤️
 
@@ -22,4 +23,5 @@
 ### ⚡ IoT & Computer Vision Intern at The Spark Foundation
 ### ⚡ Jr. Software Developer Intern at ICT Health
 ### ⚡ GSSOC'21 Participant & Contributed to [salil-naik/css-art-gallery](https://github.com/salil-naik/css-art-gallery).
+![Screenshot (44)](https://user-images.githubusercontent.com/47693419/113966997-bfa38300-984d-11eb-8b45-5b605adb6ca4.png)
 
