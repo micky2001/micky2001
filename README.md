@@ -1,5 +1,3 @@
-![Screenshot (43)](https://user-images.githubusercontent.com/47693419/113966965-b0bcd080-984d-11eb-896d-4cb8695a15cb.png)
-
 ## Hi there 👋 This is Subhashree Dash, thanks for visiting my profile ❤️
 
 
