@@ -18,15 +18,51 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">I'm <b>SUBHASHREE DASH<b> from india. I'm passionate about technology and software development, and I love to explore new ideas and projects. Here's a bit more about me:</p>
+
+- 🔭 I’m working as a Software Engineer at Hexaware Technologies.
+- 📚 I'm currently learning Web3.0 & Blockchain. Learning is a never-ending journey, and I'm always excited to acquire new skills.
+- ⚡ "Fun Fact: I once participated in a 24-hour hackathon where our team built a fully functional app that helps people find the nearest ice cream truck in real-time. 🍦 It was a wild ride of coding, brainstorming, and, of course, indulging in ice cream throughout the event!".
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h3 align="left">🚀 My Projects</h3>
+
+<p align="left">I'm passionate about building software and have worked on several exciting projects. Here are a few of my noteworthy projects:</p>
+
+1. [Project Name 1]: A brief description of the project, its purpose, and the technologies used.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Live Demo: [Link to Live Demo if applicable]
+
+2. [Project Name 2]: Describe your second project here, similar to the first one.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Live Demo: [Link to Live Demo if applicable]
+
+3. [Project Name 3]: Highlight another project you're proud of.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Live Demo: [Link to Live Demo if applicable]
+
+Feel free to explore these projects and provide feedback or contributions if you're interested!
+
+###
+
+<h3 align="left">📫 Contact Me</h3>
+
+<p align="left">You can reach out to me through the following channels:</p>
+
+- 📧 Email: micky2001@gmail.com
+- 🌐 Website: [Your Personal Website or Blog]
+- 💬 LinkedIn: [Your LinkedIn Profile]
+- 🐦 Twitter: [Your Twitter Handle]
+
+Let's connect and collaborate on exciting projects! 😄
+
 
 ###
 
