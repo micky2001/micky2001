@@ -26,7 +26,7 @@
 
 <p align="left">I'm <b>SUBHASHREE DASH<b> from india. I'm passionate about technology and software development, and I love to explore new ideas and projects. Here's a bit more about me:</p>
 
-- 🔭 I'm currently working as an Associate Software Engineer at Hexaware Technologies.
+- 🔭 I am currently working as a Associate Software Engineer at Hexaware Technologies. Previously worked at Cognizant as a Data Analyst Intern, Research Develoapment intern at R&D Institute india & at ICT Health as a Jr. Software Engineer Intern.
 
 - 📚 I'm constantly learning and currently focused on Web3.0 & Blockchain. Learning is a never-ending journey, and I'm always excited to acquire new skills.
 
