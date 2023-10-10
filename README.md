@@ -26,52 +26,32 @@
 
 <p align="left">I'm <b>SUBHASHREE DASH<b> from india. I'm passionate about technology and software development, and I love to explore new ideas and projects. Here's a bit more about me:</p>
 
-- 🔭 I’m working as a Software Engineer at Hexaware Technologies.
-- 📚 I'm currently learning Web3.0 & Blockchain. Learning is a never-ending journey, and I'm always excited to acquire new skills.
-- ⚡ "Fun Fact: I once participated in a 24-hour hackathon where our team built a fully functional app that helps people find the nearest ice cream truck in real-time. 🍦 It was a wild ride of coding, brainstorming, and, of course, indulging in ice cream throughout the event!".
+- 🔭 I'm currently working as an Associate Software Engineer at Hexaware Technologies.
+
+- 📚 I'm constantly learning and currently focused on Web3.0 & Blockchain. Learning is a never-ending journey, and I'm always excited to acquire new skills.
+
+- 💻 I'm well-versed in:
+
+  - MERN-STACK
+  - C/C++
+  - Python
+  - SQL
+
+- 🛠️ I have adequate knowledge about:
+
+  - Spring Boot
+  - React JS
+  - MongoDB
+  - MySQL
+  - Node.js
+  - Flask
+  - Informatica
+  - ServiceNow
+
+Feel free to reach out if you'd like to collaborate or discuss anything tech-related. Let's keep learning and innovating together!
+
 
 ###
-
-<h3 align="left">🚀 My Experience</h3>
-
-<p align="left">I have gained valuable experience and skills through various roles and projects in the field of software engineering. Here's a summary of my professional journey:</p>
-
-1. **Hexaware Technologies (Associate Software Engineer)**
-   - Duration: September 2022 - Present (1 year 2 months)
-   - Location: Chennai, Tamil Nadu, India
-   - Responsibilities: As an Associate Software Engineer at Hexaware Technologies, I have been involved in various software development projects, utilizing technologies such as Java, Angular, Spring Boot, Docker, and more.
-
-2. **Hexaware Technologies (Premier Graduate Engineering Trainee)**
-   - Duration: May 2022 - September 2022 (5 months)
-   - Location: Chennai, Tamil Nadu, India
-   - Training: During this period, I received comprehensive training in areas such as operating systems, network basics, shell programming, object-oriented programming (OOP), data management, and application development. I also gained exposure to Agile methodology, Maven, JDBC, cloud computing, big data analytics, and AI/ML.
-
-3. **Cognizant (Programmer Analyst Trainee)**
-   - Duration: January 2022 - May 2022 (5 months)
-   - Training: I received training in Informatica and Big Data technologies and had the opportunity to develop an Enterprise Data Warehouse for Hospital Management using Informatica.
-
-4. **Samsung R&D Institute India (Research And Development Intern)**
-   - Duration: July 2021 - December 2021 (6 months)
-   - Project: I worked on designing and developing an AI-based chatbot to facilitate software engineering processes and practices. The chatbot was deployed on a website.
-
-5. **ICT Health (Jr. Software Developer)**
-   - Duration: February 2021 - May 2021 (4 months)
-   - Achievements: I developed an AI-based speech recognition system capable of identifying medical terminologies and converting doctor's prescriptions into editable text-rich documents or PDFs. I also created a REST API using Node.js, Express.js, and MongoDB, and worked on CRUD operations using the MEAN stack.
-
-6. **EPAM Systems (EPAM PEP PROGRAM)**
-   - Duration: September 2020 - February 2021 (6 months)
-   - Training: I received training in software development skills, including Core Java, Clean Code practices, CI/CD, REST API development, and Test Automation.
-
-7. **Exposys Data Labs (Web Developer)**
-   - Duration: November 2020 - December 2020 (2 months)
-
-8. **Smart India Hackathon 2020 (Participant)**
-   - Duration: January 2020 (1 month)
-
-9. **GirlScript Summer of Code - GSSOC'20**
-   - Duration: January 2020 (1 month)
-
-These experiences have allowed me to develop a strong foundation in software engineering and expand my expertise in various technologies. I am passionate about building innovative software solutions and look forward to taking on new challenges in my career.</p>
 
 
 ###
@@ -83,7 +63,7 @@ These experiences have allowed me to develop a strong foundation in software eng
 - 📧 Email: micky2001@gmail.com
 - 🌐 Website: https://github.com/micky2001
 - 💬 LinkedIn: https://www.linkedin.com/in/subhashree-dash414/
-- 🐦 Twitter: [Your Twitter Handle]
+
 
 Let's connect and collaborate on exciting projects! 😄
 
