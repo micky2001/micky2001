@@ -32,23 +32,47 @@
 
 ###
 
-<h3 align="left">🚀 My Projects</h3>
+<h3 align="left">🚀 My Experience</h3>
 
-<p align="left">I'm passionate about building software and have worked on several exciting projects. Here are a few of my noteworthy projects:</p>
+<p align="left">I have gained valuable experience and skills through various roles and projects in the field of software engineering. Here's a summary of my professional journey:</p>
 
-1. [Project Name 1]: A brief description of the project, its purpose, and the technologies used.
-   - GitHub Repository: [Link to GitHub Repo]
-   - Live Demo: [Link to Live Demo if applicable]
+1. **Hexaware Technologies (Associate Software Engineer)**
+   - Duration: September 2022 - Present (1 year 2 months)
+   - Location: Chennai, Tamil Nadu, India
+   - Responsibilities: As an Associate Software Engineer at Hexaware Technologies, I have been involved in various software development projects, utilizing technologies such as Java, Angular, Spring Boot, Docker, and more.
 
-2. [Project Name 2]: Describe your second project here, similar to the first one.
-   - GitHub Repository: [Link to GitHub Repo]
-   - Live Demo: [Link to Live Demo if applicable]
+2. **Hexaware Technologies (Premier Graduate Engineering Trainee)**
+   - Duration: May 2022 - September 2022 (5 months)
+   - Location: Chennai, Tamil Nadu, India
+   - Training: During this period, I received comprehensive training in areas such as operating systems, network basics, shell programming, object-oriented programming (OOP), data management, and application development. I also gained exposure to Agile methodology, Maven, JDBC, cloud computing, big data analytics, and AI/ML.
 
-3. [Project Name 3]: Highlight another project you're proud of.
-   - GitHub Repository: [Link to GitHub Repo]
-   - Live Demo: [Link to Live Demo if applicable]
+3. **Cognizant (Programmer Analyst Trainee)**
+   - Duration: January 2022 - May 2022 (5 months)
+   - Training: I received training in Informatica and Big Data technologies and had the opportunity to develop an Enterprise Data Warehouse for Hospital Management using Informatica.
 
-Feel free to explore these projects and provide feedback or contributions if you're interested!
+4. **Samsung R&D Institute India (Research And Development Intern)**
+   - Duration: July 2021 - December 2021 (6 months)
+   - Project: I worked on designing and developing an AI-based chatbot to facilitate software engineering processes and practices. The chatbot was deployed on a website.
+
+5. **ICT Health (Jr. Software Developer)**
+   - Duration: February 2021 - May 2021 (4 months)
+   - Achievements: I developed an AI-based speech recognition system capable of identifying medical terminologies and converting doctor's prescriptions into editable text-rich documents or PDFs. I also created a REST API using Node.js, Express.js, and MongoDB, and worked on CRUD operations using the MEAN stack.
+
+6. **EPAM Systems (EPAM PEP PROGRAM)**
+   - Duration: September 2020 - February 2021 (6 months)
+   - Training: I received training in software development skills, including Core Java, Clean Code practices, CI/CD, REST API development, and Test Automation.
+
+7. **Exposys Data Labs (Web Developer)**
+   - Duration: November 2020 - December 2020 (2 months)
+
+8. **Smart India Hackathon 2020 (Participant)**
+   - Duration: January 2020 (1 month)
+
+9. **GirlScript Summer of Code - GSSOC'20**
+   - Duration: January 2020 (1 month)
+
+These experiences have allowed me to develop a strong foundation in software engineering and expand my expertise in various technologies. I am passionate about building innovative software solutions and look forward to taking on new challenges in my career.</p>
+
 
 ###
 
